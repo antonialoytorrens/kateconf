@@ -1,0 +1,4 @@
+# Backup locals / residuals
+*.bak
+*~
+.DS_Store
